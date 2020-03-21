@@ -17,7 +17,7 @@ Original (en inglés) TW: @maldevel
 * git clone https://github.com/maldevel/IPGeoLocation
 
 Traducido al español TW: @cdamiangomez
-* git clone https:// cdamiangomez-coder/IPGeoLocation_Spanish 
+* git clone https://gtihub.com/cdamiangomez-coder/IPGeoLocation_Spanish 
 
 * pip3 install -r requirements.txt --user
 
