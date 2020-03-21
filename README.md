@@ -39,7 +39,7 @@ Caracteristicas
 * Abra la geolocalización de IP en Google Maps usando el navegador predeterminado.
 * Exportar resultados a formato csv, xml y txt.
 
-Geolocation Information
+Información sobre Geolocalización
 ====
 * ASN
 * Ciudad
