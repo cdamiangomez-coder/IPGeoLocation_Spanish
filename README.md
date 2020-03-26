@@ -14,7 +14,7 @@ Requerimientos
 Descarga-Instalación
 ====
 Original (en inglés) TW: @maldevel
-* git clone https://github.com/cdamiangomez-coder/IPGeoLocation_Spanish
+* git clone https://github.com/maldevel/IPGeoLocation
 
 Traducido al español TW: @cdamiangomez
 * git clone https://gtihub.com/cdamiangomez-coder/IPGeoLocation_Spanish 
